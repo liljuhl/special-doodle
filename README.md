@@ -1,2 +1,3 @@
 ### special-doodle
-GitHub walkthrough NYC
+- GitHub walkthrough NYC
+- item 2
